@@ -1,6 +1,6 @@
 # University of Bergamo - Mobile and Cloud Technologies 2020
 
-This repository contains code and data for the Apps developed during the Mobile & Cloud Tecnologies Course @ Univerty of Bergamo.
+This repository contains code and data for the Apps developed during the Mobile & Cloud Tecnologies Course @ University of Bergamo.
 
 
 # MIT License
