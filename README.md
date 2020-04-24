@@ -2,6 +2,16 @@
 
 This repository contains code and data for the Apps developed during the Mobile & Cloud Tecnologies Course @ University of Bergamo.
 
+# MyTEDx Project
+
+MyTEDx is the project explained and builded during the Mobile & Cloud Tecnologies Course @ University of Bergamo.
+It is a complete server-less project based on AWS Services and Flutter.
+The project is composed by:
+- pyspark jobs on AWS Glue to build the data warehouse
+- MongoDB (Atlas) as Data Lake solution
+- a FaaS API layer with AWS Lambda and AWS API Gateway
+- a Flutter App
+
 
 # MIT License
 
